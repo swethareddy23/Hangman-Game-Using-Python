@@ -9,8 +9,8 @@ As soon as the player lost all their wrong guesses, they were hanged(not really,
 2.predefined list</br>
 3.instruction</br>
 4.check the words </br>
- *If right then enter in empty list</br>
- *Then draw figure</br>
+ * If right then enter in empty list</br>
+ * Then draw figure</br>
 5.reduce the turns</br>
 6.generate the hangman figure.</br>
 
