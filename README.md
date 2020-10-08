@@ -36,7 +36,7 @@ Make use of while, if, else conditionals to choose the random word.
 ## check the letters
 whenever the player enters a letter you need to checkin whether the letter is valid or not.</br>
 If the letter exists then the letter is placed at its correct position else it will display invalid letter.</br>
-modify the logic such that whenever the player enters a wrong letter the number of turns should be reduced and you can also design a hangman using using if-else condition.</br>
+modify the logic such that whenever the player enters a wrong letter the number of turns should be reduced.</br>
 
 ## Win or loss
 If the player guesses all the letters of the random word correct in given number of turns then the player wins else dies(losses the game). 
