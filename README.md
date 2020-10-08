@@ -14,6 +14,7 @@ As soon as the player lost all their wrong guesses, they were hanged(not really,
  * Then draw figure</br>
  * reduce the turns</br>
  * generate the hangman figure.</br>
+ 
 5.win or loss
 
 ## User interface
